@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52352905273438,
+          13.728712877085783
+        ]
+      },
+      "properties": {
+        "gpsbox_imei": "9999999999999",
+        "driver_id": 1,
+        "driver_name": "ชื่อคนขับรถ",
+        "license_plate": "AAA1234",
+        "trip_name": "รถบริการภายใน",
+        "heading": 357.8,
+        "speed": 0,
+        "vehicle_type": 2,
+        "last_update": "Wed Apr 28 2021 14:58:22 "
+      }
+    }
+  ]
+}
